@@ -46,7 +46,7 @@ for page in range(1,int(page_num)+1):# 執行1~2頁
         print('[',page,']',record+1,':',link)
         record+=1
         img = requests.get(link)
-        with open(path + "\\" + input_category + str(index+1) + ".mp4", "wb") as file:  
+        with open(path + "\\" + input_category + str(record+1) + ".mp4", "wb") as file:  
             file.write(img.content) 
             
 end = time.time()   
