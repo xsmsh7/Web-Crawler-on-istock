@@ -14,7 +14,7 @@ class colors:
     MARK = '\033[92m' #GREEN
     RESET = '\033[0m' #RESET COLOR
     
-input_category = input("Please enter image category：")
+input_category = input("Please enter video category：")
 ip_ask = input("Please enter the ip to search (generally enter no)：")
 page_num = input("Please enter the page for search：")
 
