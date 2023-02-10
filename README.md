@@ -24,7 +24,7 @@
 4. Done
 
 ## Demo
-##### Demo Video Link : https://youtu.be/3uqz4lYCJj4
+
 1. First enter your image(or video) category
 2. Second enter the ip to search (generally enter no)
 3. Thrid enter the page for search
