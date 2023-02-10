@@ -9,13 +9,13 @@
     
 3. choose image or video .py file and Execute the program
 
-### Image
+#### Image version
 
     Window :  `webcrawler_istock.py` 
     
     Linux :   `webcrawler_linux_istock.py`
     
-### Video
+#### Video version
 
     Window :  `webcrawler_istock_video.py` 
     
